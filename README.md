@@ -58,7 +58,7 @@ This is the main repository for all of the projects in the course.
 | 47  | [Testimonial Box Switcher](https://github.com/jjmsantos/50days-50projects/tree/main/Day%2047%20-%20Testimonial%20Box%20Switcher)         | [Live Demo](https://jjmsantos.github.io/50days-50projects/Day%2047%20-%20Testimonial%20Box%20Switcher)     |
 | 48  | [Random Image Feed](https://github.com/jjmsantos/50days-50projects/tree/main/Day%2048%20-%20Random%20Image%20Feed)                       | [Live Demo](https://jjmsantos.github.io/50days-50projects/Day%2048%20-%20Random%20Image%20Feed)            |
 | 49  | [Todo List](https://github.com/jjmsantos/50days-50projects/tree/main/Day%2049%20-%20To%20Do%20List)                                      | [Live Demo](https://jjmsantos.github.io/50days-50projects/Day%2049%20-%20To%20Do%20List)                   |
-| 50  | [Insect Catch Game](https://github.com/jjmsantos/50days-50projects/tree/main/)                                                           | [Live Demo](https://jjmsantos.github.io/50days-50projects/)                                                |
+| 50  | [Insect Catch Game](https://github.com/jjmsantos/50days-50projects/tree/main/Day%2050%20-%20Insect%20Catch%20Game)                       | [Live Demo](https://jjmsantos.github.io/50days-50projects/Day%2050%20-%20Insect%20Catch%20Game)            |
 
 ## License
 
