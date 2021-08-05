@@ -1,7 +1,7 @@
 # 50 Projects in 50 Days - HTML/CSS and JavaScript
 
 ![UC-172eb91a-6a62-495c-b326-74830ea118b8](https://user-images.githubusercontent.com/77421219/128432582-be5a4758-68e1-4dad-a1c5-383fd240b410.jpg)
-
+[Udemy Certificate link](https://www.udemy.com/certificate/UC-172eb91a-6a62-495c-b326-74830ea118b8/)
 
 This is the MY repository for all of the projects in the course.
 
