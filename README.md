@@ -1,6 +1,9 @@
 # 50 Projects in 50 Days - HTML/CSS and JavaScript
 
-This is the main repository for all of the projects in the course.
+![UC-172eb91a-6a62-495c-b326-74830ea118b8](https://user-images.githubusercontent.com/77421219/128432582-be5a4758-68e1-4dad-a1c5-383fd240b410.jpg)
+
+
+This is the MY repository for all of the projects in the course.
 
 - [Course Link](https://www.udemy.com/course/50-projects-50-days)
   <!-- Forked the readme file, to grab the markdown code -->
